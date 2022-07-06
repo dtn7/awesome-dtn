@@ -42,6 +42,8 @@
 - [ns3 dtn bit](https://github.com/bit-oh-my-god/ns3-dtn-bit) - This Project is a newbie-friendly simulation for dtn on ns-3 environment, easy to use for research purples, supporting customed routing definition and scenario definition.
 - [OPS](https://github.com/ComNets-Bremen/OPS) - The Opportunistic Protocol Simulator (OPS, pronounced as oops!!!) is a set of simulation models for OMNeT++ to simulate opportunistic networks.
 - [OPSlite](https://github.com/ComNets-Bremen/OPSLite) - OPSLite is a scaled-down, light-weight version of OPS.
+- [dtnsim](https://github.com/h-ohsaki/dtnsim) - dtnsim is a DTN (Delay/Disruption-Tolerant Networking) simulator written in Python.
+- [pydtnsim](https://github.com/ducktec/pydtnsim) - An event-discrete DTN simulation environment written in Python. Focused on evaluating routing approaches.
 
 
 ## Videos
