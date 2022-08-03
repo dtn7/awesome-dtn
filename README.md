@@ -53,3 +53,8 @@
 - [Delay/Disruption Tolerant Networking @ USENIX](https://youtu.be/cr5A2WQGzIQ) - USENIX Talk from 2009
 - [DTNs Explained](https://youtu.be/BGQD1UN_q_g) - simple explanation video
 - [DTN Routing and Capacity Enhancement in an Outdoor Mobile Environment](https://youtu.be/BAe271zGPL8) - Talk from Microsoft Research
+
+## Community
+
+- [Matrix space to discuss various dtn related topics, especially dtn7-related](https://matrix.to/#/#dtn7:matrix.org)
+
