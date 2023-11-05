@@ -22,6 +22,8 @@
 - [µD3TN](https://gitlab.com/d3tn/ud3tn) - Free, lean, and space-tested DTN protocol implementation running on POSIX and STM32 microcontrollers.
 - [TERRA](https://github.com/RightMesh/Terra/) - Lightweight and extensible DTN library
 - [ION-DTN](https://sourceforge.net/projects/ion-dtn/) - Delay-Tolerant Networking suitable for use in spacecraft
+- [HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
+
 
 ## Bundle Protocol Version 6 - RFC 5050
 
@@ -30,6 +32,7 @@
 - [DTN2](https://github.com/delay-tolerant-networking/DTN2) - DTN Reference Implementation
 - [IBR-DTN](https://github.com/ibrdtn/ibrdtn) - A modular and lightweight implementation of the bundle protocol.
 - [ION-DTN](https://sourceforge.net/projects/ion-dtn/) - Delay-Tolerant Networking suitable for use in spacecraft
+- [HDTN](https://github.com/nasa/HDTN) - High-rate Delay Tolerant Network (HDTN) Software
 
 ## Non Bundle Protocol
 
@@ -43,8 +46,10 @@
 - [OPS](https://github.com/ComNets-Bremen/OPS) - The Opportunistic Protocol Simulator (OPS, pronounced as oops!!!) is a set of simulation models for OMNeT++ to simulate opportunistic networks.
 - [OPSlite](https://github.com/ComNets-Bremen/OPSLite) - OPSLite is a scaled-down, light-weight version of OPS.
 - [dtnsim](https://github.com/h-ohsaki/dtnsim) - dtnsim is a DTN (Delay/Disruption-Tolerant Networking) simulator written in Python.
+- [dtnsim](https://bitbucket.org/lcd-unc-ar/dtnsim/) - an OMNET++ simulation that can also be used with ION and HDTN (extra branch) implementations
 - [pydtnsim](https://github.com/ducktec/pydtnsim) - An event-discrete DTN simulation environment written in Python. Focused on evaluating routing approaches.
 - [ns3 dtn](https://github.com/sergiosvieira/ns3-dtn) - rfc 5050 implementation for ns3, mostly undocumented
+- [PONS](https://github.com/gh0st42/PONS) - The Python Opportunistic Network Simulator. Run DTN simulations using SimPy.
 
 
 ## Videos
