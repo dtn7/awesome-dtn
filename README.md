@@ -54,6 +54,7 @@
 - [pydtnsim](https://github.com/ducktec/pydtnsim) - An event-discrete DTN simulation environment written in Python. Focused on evaluating routing approaches.
 - [ns3 dtn](https://github.com/sergiosvieira/ns3-dtn) - rfc 5050 implementation for ns3, mostly undocumented
 - [PONS](https://github.com/gh0st42/PONS) - The Python Opportunistic Network Simulator. Run DTN simulations using SimPy.
+- [aiodtnsim](https://gitlab.com/d3tn/aiodtnsim) - A Python framework for performing DTN simulations using `asyncio`.
 
 
 ## Videos
