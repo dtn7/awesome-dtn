@@ -26,6 +26,7 @@
 - [DTNME](https://github.com/nasa/DTNME) - DTN Marshal Enterprise Implementation
 - [dtn7zero](https://github.com/dtn7/dtn7zero) - A python implementation of BPv7 in the spirit of the NetworkZero and GuiZero libraries
 - [NASA AMMOS BSL](https://github.com/NASA-AMMOS/BSL) - C99 library implementation of Bundle Protocol Security (BPSec) as specified in RFC 9172 and RFC 9173
+- [dtn-custody-demo](https://github.com/BSVKey/dtn-custody-demo) - Application-layer verifiable data custody over BPv7 (built on µD3TN): signed per-hop custody receipts, out-of-order Merkle verification of chunked payloads, and delivery bound to an on-chain settlement + provenance anchor. Apache-2.0.
 
 ## Bundle Protocol Version 6 - RFC 5050
 
